@@ -1,0 +1,6 @@
+{
+    "name": "pezda/meetings-vue-slim",
+    "require": {
+        "slim/slim": "^3.11"
+    }
+}
